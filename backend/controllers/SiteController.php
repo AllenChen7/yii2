@@ -105,4 +105,9 @@ class SiteController extends Controller
     {
         echo 234;
     }
+
+    public function actionNewTest()
+    {
+        echo 345;
+    }
 }
