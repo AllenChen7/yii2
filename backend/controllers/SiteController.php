@@ -95,4 +95,24 @@ class SiteController extends Controller
 
         return $this->goHome();
     }
+
+    public function actionTest()
+    {
+        echo 123;
+    }
+
+    public function actionNew()
+    {
+        echo 234;
+    }
+
+    public function actionNewTest()
+    {
+        echo 345;
+    }
+
+    public function actionNo()
+    {
+        echo 34356;
+    }
 }

@@ -210,4 +210,30 @@ class SiteController extends Controller
             'model' => $model,
         ]);
     }
+    
+
+    public function actionTestOne()
+    {
+        echo 222;
+    }
+
+    public function actionAjax()
+    {
+        echo '123';
+    }
+
+
+    public function actionNew()
+    {
+        echo '232';
+    }
+    public function actionYear()
+    {
+        echo '343';
+    }
+
+    public function actionNo()
+    {
+        echo '23232';
+    }
 }
