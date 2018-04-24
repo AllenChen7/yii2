@@ -236,4 +236,9 @@ class SiteController extends Controller
     {
         echo '23232';
     }
+
+    public function actionYes()
+    {
+        echo 4562;
+    }
 }
