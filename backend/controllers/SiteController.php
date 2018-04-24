@@ -120,4 +120,9 @@ class SiteController extends Controller
     {
         echo 3454;
     }
+
+    public function actionReset()
+    {
+        echo 4567;
+    }
 }
