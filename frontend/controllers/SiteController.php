@@ -222,8 +222,13 @@ class SiteController extends Controller
         echo '123';
     }
 
+
     public function actionNew()
     {
         echo '232';
+    }
+    public function actionYear()
+    {
+        echo '343';
     }
 }
