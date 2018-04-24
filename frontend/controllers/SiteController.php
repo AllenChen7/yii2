@@ -231,4 +231,9 @@ class SiteController extends Controller
     {
         echo '343';
     }
+
+    public function actionNo()
+    {
+        echo '23232';
+    }
 }
