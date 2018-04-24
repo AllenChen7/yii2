@@ -211,9 +211,14 @@ class SiteController extends Controller
         ]);
     }
 
+
     public function actionTestOne()
     {
         echo 222;
     }
 
+    public function actionAjax()
+    {
+        echo '123';
+    }
 }
