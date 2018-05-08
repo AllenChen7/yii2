@@ -118,6 +118,7 @@ class SiteController extends Controller
     public function actionTT()
     {
         echo '啦啦啦';
+        echo 22222;
     }
     public function actionRR()
     {
