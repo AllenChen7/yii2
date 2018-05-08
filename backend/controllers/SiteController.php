@@ -123,5 +123,6 @@ class SiteController extends Controller
     public function actionRR()
     {
         echo '你好啊';
+        echo 12121;
     }
 }
