@@ -130,4 +130,8 @@ class SiteController extends Controller
     {
         echo 1231;
     }
+    public function actionYY()
+    {
+        echo 345;
+    }
 }
