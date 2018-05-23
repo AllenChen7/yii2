@@ -125,4 +125,9 @@ class SiteController extends Controller
         echo '你好啊';
         echo 12121;
     }
+
+    public function actionEE()
+    {
+        echo 1231;
+    }
 }
