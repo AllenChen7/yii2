@@ -132,7 +132,7 @@ class SiteController extends Controller
     }
     public function actionYY()
     {
-        echo 345;
+        echo 34521;
     }
 
     public function actionE2()
